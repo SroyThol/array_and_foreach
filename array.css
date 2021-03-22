@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.check{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+.check ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.check ul li{
+    float: left;
+}
+.check ul li a{
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    color: white;
+    line-height: 20px;
+}
